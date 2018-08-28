@@ -1,0 +1,88 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Wine_Quiz</string>
+    <string name="headerText">WSET Practice Quiz</string>
+    <string name="question1">Which latitudes north and south of the Equator mark the temperate zone
+        where most vineyards are located?</string>
+    <string name="answer1_1">40 and 50 degrees</string>
+    <string name="answer2_1">30 and 50 degrees</string>
+    <string name="answer3_1">20 and 40 degrees</string>
+    <string name="answer4_1">30 and 40 degrees</string>
+    <string name="question2">Which of the following does not effect temperature in the vineyard?
+    </string>
+    <string name="answer1_2">Climate</string>
+    <string name="answer2_2">Weather</string>
+    <string name="answer3_2">Grape variety</string>
+    <string name="answer4_2">Soil</string>
+    <string name="question3">Which one of the following statements is true?</string>
+    <string name="answer1_3">Top-quality wines can only be made from hand-harvested grapes</string>
+    <string name="answer2_3">Top-quality wines can only be made from machine-harvested grapes</string>
+    <string name="answer3_3">Top-quality wines can be made from both hand and machine-harvested
+        grapes</string>
+    <string name="answer4_3">Top-quality wines can not be made from machine-harvested grapes</string>
+    <string name="question4">What is the correct sequence for most red winemaking?</string>
+    <string name="answer1_4">Crush, press, ferment</string>
+    <string name="answer2_4">Crush, ferment, press</string>
+    <string name="answer3_4">Press, ferment, crush</string>
+    <string name="answer4_4">Press, crush, ferment</string>
+    <string name="question5">Old oak vats&#8230;
+    \n1. Add the flavour of oak to wine
+    \n2. Allow oxygen to dissolve in the wine
+    \n3. Allow the tannins in red wine to soften</string>
+    <string name="answer1_5">1 and 2 only</string>
+    <string name="answer2_5">1 and 3 only</string>
+    <string name="answer3_5">2 and 3 only</string>
+    <string name="answer4_5">1, 2, and 3</string>
+    <string name="question6">Which of the following techniques is the one that is used
+        to give the most red wines their colour?</string>
+    <string name="answer1_6">Fermentation contact with just the pips and stalks</string>
+    <string name="answer2_6">Pressing juice from the grapes</string>
+    <string name="answer3_6">Fermentation in oak casks</string>
+    <string name="answer4_6">Fermentation in contact with the skins</string>
+    <string name="question7">Which of the following grape varieties can be used to make premium-
+        quality wines in cool, moderate, and hot climates?</string>
+    <string name="answer1_7">Chardonnay</string>
+    <string name="answer2_7">Pinot Noir</string>
+    <string name="answer3_7">Sauvignon Blanc</string>
+    <string name="answer4_7">Riesling</string>
+    <string name="question8">Which of the following are commonly used to add complexity to
+        premium-quality dry Chardonnay?
+    \n1. Flor yeast
+    \n2. Botrytis
+    \n3. Lees stirring
+    \n4. Barrel fermentation</string>
+    <string name="answer1_8">1 and 2 only</string>
+    <string name="answer2_8">2 and 3 only</string>
+    <string name="answer3_8">3 and 4 only</string>
+    <string name="answer4_8">1 and 4 only</string>
+    <string name="question9">Youthful Marlborough Sauvignon Blanc wines have flavours of&#8230;</string>
+    <string name="answer1_9">Pineapple and oak</string>
+    <string name="answer2_9">Gooseberry and passion fruit</string>
+    <string name="answer3_9">Pear and honey</string>
+    <string name="answer4_9">Citrus and butter</string>
+    <string name="question10">Which of the following regions has a reputation for premium quality
+        \nRiesling?</string>
+    <string name="answer1_10">Burgundy</string>
+    <string name="answer2_10">Alsace</string>
+    <string name="answer3_10">Rioja</string>
+    <string name="answer4_10">Vouvray</string>
+
+    <string name="passMessage">Congratulations, you scored:</string>
+
+    <string name="failMessage">Keep studying, you scored:</string>
+
+    <string name="passScoreMessage"><xliff:g example="6" id="score">%d</xliff:g>/10</string>
+
+    <string name="failScoreMessage"><xliff:g example="1" id="score">%d</xliff:g>/10 You need to score over <xliff:g example="5" id="pass">%d</xliff:g> to pass</string>
+
+    <string name="nextButton">Next</string>
+
+    <string name="backButton">Back</string>
+
+    <string name="exitButton">Exit</string>
+
+    <string name="submitButton">Submit</string>
+
+    <string name="backToResults">Check Results</string>
+
+    <string name="image_description">Man pouring red wine into a glass</string>
+</resources>

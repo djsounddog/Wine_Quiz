@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources  xmlns:tools="http://schemas.android.com/tools">
+    <color name="primaryColor">#b71c1c</color>
+
+    <color name="primaryLightColor">#f05545</color>
+
+    <color name="primaryDarkColor">#7f0000</color>
+
+    <color name="secondaryColor">#1b5e20</color>
+
+    <color name="secondaryLightColor">#4c8c4a</color>
+
+    <!--<color name="secondaryDarkColor">#003300</color>-->
+
+    <color name="primaryTextColor">#ffffff</color>
+
+    <color name="secondaryTextColor">#ffffff</color>
+
+    <color name="accent_material_dark" tools:override="true">#f05545</color>
+</resources>
